@@ -18,9 +18,6 @@ This project analyzes COVID-19 vaccination data across various states in the Uni
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Visualization](#visualization)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
